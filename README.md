@@ -16,10 +16,10 @@ __________________________________________________________________
 ## Contatos ##
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/manuela-brito-532a93219/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2C2C2C" alt="LinkedIn" />
   </a>
-  <a href="" target="_blank">
+  <a href="https://github.com/ManuelaBrito" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C" alt="GitHub" />
   </a>
 </div>
@@ -144,11 +144,34 @@ ________________________________________________________________________________
 Atuação como Scrum Master - 
 
 ## **Hard Skills:** ##
+
+## **Soft Skills:** ## 
 ___________________________________________________________________________________________________________________________________________________
 
 ## **2026 - 2º Semestre** ##
 
 <img width="1074" height="196" alt="Captura de tela 2026-08-30 162135" src="https://github.com/user-attachments/assets/742050b7-d47e-4643-b9cc-ec2421e037af" />
 
+**Descrição do problema:**
 
+**Solução do problema:**
 
+## **Tecnologias Utilizadas:** ## 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=2C2C2C" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=2C2C2C" alt="Java" />
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white&labelColor=2C2C2C" alt="Maven" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=2C2C2C" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2C2C2C" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2C2C2C" alt="VS Code" />
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C" alt="GitHub Projects" />
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
+</div>
+
+## **Contribuições pessoais:** ##
+Atuação como desenvolvedora - 
+
+## **Hard Skills:** ##
+
+## **Soft Skills:** ## 
