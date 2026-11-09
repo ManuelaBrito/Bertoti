@@ -107,9 +107,11 @@ ________________________________________________________________________________
 Atuação como Product Owner - Gestão organizada e democratica, visão estabelcida de produto e negocio e empatia/escuta ativa
 
 ## **Hard Skills:** ##
-
+Como Productor Owner tive a tarefa árdua de entender previamente o projeto antes de passar para o resto da equipe, compreender o cliente tecnicamente como desenvolvedora e como representante de produto foi um desafio pessoal. Tive que melhorar minha comunicação, transitar entre o técnico e o [palavra chave] foi um desafio, no fim do projeto fui completamente capaz de fazer uma ponte entre o cliente e a equipe de desenvolvimento, garantido uma boa entrega técnica, que atendesse os critérios do cliente
 
 ## **Soft Skills:** ## 
+
+
 ___________________________________________________________________________________________________________________________________________________
 
 ## **2026 - 1º Semestre** ##
