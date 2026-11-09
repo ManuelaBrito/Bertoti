@@ -64,7 +64,7 @@ __________________________________________________________________
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2C2C2C" alt="WhatsApp" />
 </div>
 
-## **Atribuições pessoais** ##
+## **Contribuições pessoais** ##
 Atuação como desenvolvedora backend - compreender regras de negócio e estrutura de código
 
 ## **Hard Skills:** ##
