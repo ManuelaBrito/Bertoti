@@ -64,11 +64,14 @@ __________________________________________________________________
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=2C2C2C" alt="WhatsApp" />
 </div>
 
+## **Atribuições pessoais** ##
+Atuação como desenvolvedora backend - compreender regras de negócio e estrutura de código
+
 ## **Hard Skills:** ##
-Como desenvolvedora nesse projeto, pude compreender os conceitos de algoritmos e entender a funcionalidade de cada 
+Como desenvolvedora nesse projeto, pude compreender os conceitos de algoritmos e entender a funcionalidade de cada função e método utilizado nos calculos apresentados mo projeto.
 
 ## **Soft Skills:** ## 
-Como membro ativo da equipe, tive comprometimento em prestar apoio emocional 
+Como membro ativo da equipe, tive comprometimento em prestar apoio emocional, apesar das dificuldades tecnicas fui capaz de ajudar outros membros da equipe depois que dominei os conceitos básicos de algoritmo 
 ___________________________________________________________________________________________________________________________________________________
 
 ## **2025 - 2º Semestre** ##
