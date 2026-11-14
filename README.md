@@ -148,13 +148,19 @@ Atuação como Scrum Master -
 ## **Soft Skills:** ## 
 ___________________________________________________________________________________________________________________________________________________
 
-## **2026 - 2º Semestre** ##
+<div align="left">
 
-<img width="1074" height="196" alt="Captura de tela 2026-08-30 162135" src="https://github.com/user-attachments/assets/742050b7-d47e-4643-b9cc-ec2421e037af" />
+## 2026 - 2º Semestre
 
-**Descrição do problema:**
+**Empresa parceira:** VISIONA
 
-**Solução do problema:**
+**Nome do Projeto:** GeoRural DataHub
+
+<img width="1074" alt="GeoRural DataHub" src="https://github.com/user-attachments/assets/742050b7-d47e-4643-b9cc-ec2421e037af" />
+
+**Descrição do problema:** Dados territoriais e ambientais de propriedades rurais chegam de diversas fontes, sem padronização, validação ou rastreabilidade. Isso dificulta garantir a qualidade dos registros, saber a origem de cada indicador e acompanhar a ingestão de novos dados.
+
+**Solução do problema:** Desenvolvimento do GeoRural DataHub, uma plataforma web com Spring Boot no back-end e Vue.js no front-end. A solução centraliza o controle, validação e governança de dados territoriais em um banco de dados relacional Oracle, permitindo a gestão de lotes de ingestão, rastreabilidade completa (data lineage) de indicadores ambientais, controle de qualidade de registros rurais através de procedimentos em PL/SQL e visualização espacial interativa e reativa com suporte a dados em tempo real via WebSocket.
 
 ## **Tecnologias Utilizadas:** ## 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -169,9 +175,64 @@ ________________________________________________________________________________
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
 </div>
 
+<div align="left">
+
 ## **Contribuições pessoais:** ##
-Atuação como desenvolvedora - 
+
+Atuei como **desenvolvedora full stack** no projeto, contribuindo em diversas frentes, da infraestrutura à entrega final:
+
+**⭐ Destaque: Módulo de Indicadores Ambientais (end-to-end)**
+
+Fui responsável pelo desenvolvimento completo do módulo de indicadores, do banco de dados à interface:
+- **Banco de dados:** modelagem e criação das tabelas de indicadores no Oracle.
+- **Processamento no banco:** implementação da lógica de processamento e validação dos dados de indicadores diretamente no banco, com procedures em PL/SQL.
+- **Pipeline de dados:** criação das DAGs no Apache Airflow responsáveis pela ingestão e pelo processamento dos dados dos indicadores, com tratamento geoespacial via GeoPandas.
+- **Back-end:** implementação dos endpoints e das regras de negócio para cadastrar e validar indicadores na API em Spring Boot.
+- **Front-end:** desenvolvimento das telas de cadastro e gestão de indicadores em Vue.js, integradas à API.
+
+**🌍 Dados Geoespaciais (GeoPandas)**
+- Uso da biblioteca GeoPandas em diversas etapas do projeto para manipular e processar dados territoriais.
+- Leitura, tratamento e transformação de geometrias e atributos espaciais dos registros rurais.
+- Preparação e padronização dos dados geoespaciais para carga no banco Oracle e para a visualização espacial na plataforma.
+
+**🗄️ Banco de Dados (Oracle)**
+- Modelagem conceitual, lógica e física do banco de dados relacional, estruturando as entidades de lotes de ingestão, registros rurais e indicadores ambientais.
+- Criação e implementação do banco de dados Oracle, incluindo tabelas, relacionamentos e restrições de integridade.
+
+**⚙️ Infraestrutura e Deploy**
+- Construção, instalação e configuração da máquina virtual com o Oracle Database, deixando o ambiente pronto para uso pela equipe.
+- Instalação e configuração do Apache Airflow para orquestrar os fluxos de ingestão de dados.
+- Configuração do Docker para containerizar a aplicação, padronizando o ambiente de desenvolvimento.
+- Configuração do deploy da aplicação.
+
+**🖥️ Back-end e Front-end**
+- Participação ativa no desenvolvimento da API REST em Spring Boot e da interface em Vue.js, além do módulo de indicadores.
+
+**📄 Documentação**
+- Elaboração da documentação técnica do projeto.
+- Criação do manual de instalação, com o passo a passo para configurar o ambiente (VM, banco, Docker e Airflow).
+- Criação do manual do usuário, com orientações de uso das funcionalidades da plataforma.
 
 ## **Hard Skills:** ##
 
-## **Soft Skills:** ## 
+- **Oracle Database:** modelagem conceitual, lógica e física, criação de tabelas, relacionamentos e restrições de integridade.
+- **PL/SQL:** desenvolvimento de procedures para processamento e validação de dados diretamente no banco.
+- **Spring Boot (Java):** desenvolvimento de API REST, com criação de endpoints e implementação de regras de negócio.
+- **Vue.js:** desenvolvimento de telas e componentes integrados à API.
+- **Python + GeoPandas:** manipulação, tratamento e transformação de dados geoespaciais.
+- **Apache Airflow:** instalação, configuração e criação de DAGs para orquestrar pipelines de ingestão de dados.
+- **Docker:** containerização da aplicação e padronização do ambiente de desenvolvimento.
+- **Máquinas Virtuais:** construção, instalação e configuração de VM com Oracle Database.
+- **Deploy:** configuração da publicação da aplicação.
+- **Documentação Técnica:** elaboração de documentação do projeto e de manuais de instalação e de usuário.
+
+## **Soft Skills:** ##
+
+- **Proatividade:** atuei em diversas frentes do projeto, da infraestrutura ao front-end, assumindo responsabilidades além do desenvolvimento.
+- **Visão sistêmica:** desenvolvi o módulo de indicadores de ponta a ponta, o que exigiu entender como banco, pipeline, API e interface se conectam.
+- **Colaboração:** configurei e documentei o ambiente (VM, banco, Docker e Airflow) para que toda a equipe pudesse trabalhar com a mesma base.
+- **Comunicação:** produzi manuais de instalação e de usuário, transformando conteúdo técnico em instruções claras para diferentes públicos.
+- **Adaptabilidade e aprendizado rápido:** aprendi e apliquei tecnologias novas, como Airflow, GeoPandas e dados geoespaciais, conforme a necessidade do projeto.
+- **Organização:** conciliei o desenvolvimento com a configuração de infraestrutura e a documentação ao longo das sprints.
+
+</div>
