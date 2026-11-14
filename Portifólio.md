@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://images.weserv.nl/?url=github.com/ManuelaBrito.png&w=200&h=200&fit=cover&mask=circle" width="200" alt="Foto de perfil" />
+</p>
+
 ## Sobre mim ##
 
 Sou estudante do curso de Banco de Dados na FATEC Jessen Vital (turma noturna, ingresso em 2025). Entrei no curso sem nenhuma experiência em programação e fui construindo a base com muita prática, principalmente em lógica e matemática, que eram meus maiores desafios.
@@ -41,10 +46,13 @@ __________________________________________________________________
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2C2C2C" alt="Oracle Cloud" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=2C2C2C" alt="Airflow" />
 </div>
-__________________________________________________________________
 
 ## Meus Projetos ##
 
+<table>
+<tr>
+<td> 
+  
 ## **2025 - 1º Semestre** ##
 
 ***Empresa parceira:*** FATEC Jessen Vital
@@ -72,7 +80,15 @@ Como desenvolvedora nesse projeto, pude compreender os conceitos de algoritmos e
 
 ## **Soft Skills:** ## 
 Como membro ativo da equipe, tive comprometimento em prestar apoio emocional, apesar das dificuldades tecnicas fui capaz de ajudar outros membros da equipe depois que dominei os conceitos básicos de algoritmo 
-___________________________________________________________________________________________________________________________________________________
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td> 
 
 ## **2025 - 2º Semestre** ##
 
@@ -111,8 +127,13 @@ Como Productor Owner tive a tarefa árdua de entender previamente o projeto ante
 
 ## **Soft Skills:** ## 
 
+</td>
+</tr>
+</table>
 
-___________________________________________________________________________________________________________________________________________________
+<table>
+<tr>
+<td>
 
 ## **2026 - 1º Semestre** ##
 
@@ -146,7 +167,14 @@ Atuação como Scrum Master -
 ## **Hard Skills:** ##
 
 ## **Soft Skills:** ## 
-___________________________________________________________________________________________________________________________________________________
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
 
 <div align="left">
 
@@ -172,7 +200,12 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2C2C2C" alt="VS Code" />
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C" alt="GitHub Projects" />
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2C2C2C" alt="Docker" />
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=2C2C2C" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=2C2C2C" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white&labelColor=2C2C2C" alt="Flyway" />
+  <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=geopandas&logoColor=white&labelColor=2C2C2C" alt="GeoPandas" />
 </div>
 
 <div align="left">
@@ -236,3 +269,7 @@ Fui responsável pelo desenvolvimento completo do módulo de indicadores, do ban
 - **Organização:** conciliei o desenvolvimento com a configuração de infraestrutura e a documentação ao longo das sprints.
 
 </div>
+
+</td>
+</tr>
+</table>
