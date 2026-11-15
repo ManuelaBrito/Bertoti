@@ -158,11 +158,11 @@ Como Productor Owner tive a tarefa árdua de entender previamente o projeto ante
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=2C2C2C" alt="Figma" />
   <img src="https://img.shields.io/badge/GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C" alt="GitHub Projects" />
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
 </div>
 
 ## **Contribuições pessoais:** ##
-Atuação como Scrum Master - 
+Atuação como Scrum Master 
 
 ## **Hard Skills:** ##
 
@@ -214,7 +214,7 @@ Atuação como Scrum Master -
 
 Atuei como **desenvolvedora full stack** no projeto, contribuindo em diversas frentes, da infraestrutura à entrega final:
 
-**⭐ Destaque: Módulo de Indicadores Ambientais (end-to-end)**
+**Destaque: Módulo de Indicadores Ambientais (end-to-end)**
 
 Fui responsável pelo desenvolvimento completo do módulo de indicadores, do banco de dados à interface:
 - **Banco de dados:** modelagem e criação das tabelas de indicadores no Oracle.
@@ -223,25 +223,25 @@ Fui responsável pelo desenvolvimento completo do módulo de indicadores, do ban
 - **Back-end:** implementação dos endpoints e das regras de negócio para cadastrar e validar indicadores na API em Spring Boot.
 - **Front-end:** desenvolvimento das telas de cadastro e gestão de indicadores em Vue.js, integradas à API.
 
-**🌍 Dados Geoespaciais (GeoPandas)**
+**Dados Geoespaciais (GeoPandas)**
 - Uso da biblioteca GeoPandas em diversas etapas do projeto para manipular e processar dados territoriais.
 - Leitura, tratamento e transformação de geometrias e atributos espaciais dos registros rurais.
 - Preparação e padronização dos dados geoespaciais para carga no banco Oracle e para a visualização espacial na plataforma.
 
-**🗄️ Banco de Dados (Oracle)**
+**Banco de Dados (Oracle)**
 - Modelagem conceitual, lógica e física do banco de dados relacional, estruturando as entidades de lotes de ingestão, registros rurais e indicadores ambientais.
 - Criação e implementação do banco de dados Oracle, incluindo tabelas, relacionamentos e restrições de integridade.
 
-**⚙️ Infraestrutura e Deploy**
+**Infraestrutura e Deploy**
 - Construção, instalação e configuração da máquina virtual com o Oracle Database, deixando o ambiente pronto para uso pela equipe.
 - Instalação e configuração do Apache Airflow para orquestrar os fluxos de ingestão de dados.
 - Configuração do Docker para containerizar a aplicação, padronizando o ambiente de desenvolvimento.
 - Configuração do deploy da aplicação.
 
-**🖥️ Back-end e Front-end**
+**Back-end e Front-end**
 - Participação ativa no desenvolvimento da API REST em Spring Boot e da interface em Vue.js, além do módulo de indicadores.
 
-**📄 Documentação**
+**Documentação**
 - Elaboração da documentação técnica do projeto.
 - Criação do manual de instalação, com o passo a passo para configurar o ambiente (VM, banco, Docker e Airflow).
 - Criação do manual do usuário, com orientações de uso das funcionalidades da plataforma.
