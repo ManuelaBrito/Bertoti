@@ -143,8 +143,6 @@ Como Productor Owner tive a tarefa árdua de entender previamente o projeto ante
 
 <div align="justify">
 
-## **2026 - 1º Semestre** ##
-
 **Empresa parceira:** IPEM - Instituto de Pesos e Medidas do Estado de São Paulo
 
 **Nome do Projeto:** IPEM CONTROL
@@ -198,6 +196,26 @@ Atuei como **Scrum Master e desenvolvedora** da equipe, conciliando a gestão á
 **Documentação**
 - Construção e manutenção da documentação do projeto, mantendo-a atualizada a cada sprint.
 - Organização dos artefatos do Scrum e dos registros de cada sprint no repositório.
+
+## **Hard Skills:** ##
+
+- **Scrum:** aplicação do framework ágil, com condução das cerimônias (Planning, Daily, Review e Retrospective) e gestão dos artefatos (Product Backlog, Sprint Backlog e Incremento).
+- **Kanban:** organização e acompanhamento do fluxo de tarefas da equipe.
+- **GitHub Projects:** administração de quadros, issues e acompanhamento das sprints.
+- **Git e GitHub:** versionamento do código, organização de branches e colaboração no repositório.
+- **Refatoração de Código:** melhoria da organização, da legibilidade e da manutenibilidade do código, com eliminação de duplicações.
+- **Documentação Técnica:** construção e manutenção da documentação do projeto e dos registros de cada sprint.
+- **TECNOLOGIA 1:** o que você fez com ela.
+- **TECNOLOGIA 2:** o que você fez com ela.
+
+## **Soft Skills:** ##
+
+- **Liderança servidora:** como Scrum Master, apoiei a equipe removendo impedimentos e criando condições para que o time focasse nas entregas.
+- **Comunicação:** fiz a ponte entre a equipe, o Product Owner e o IPEM, garantindo o alinhamento entre os requisitos e as entregas.
+- **Organização:** mantive o backlog, o quadro Kanban e a documentação estruturados e atualizados ao longo das sprints.
+- **Mediação de conflitos:** conduzi as retrospectivas e as discussões do time buscando soluções em conjunto.
+- **Visão do todo:** acompanhei o projeto de forma ampla, do planejamento à entrega, conciliando a gestão com o desenvolvimento.
+- **Responsabilidade:** assumi ao mesmo tempo o papel de Scrum Master e as tarefas de desenvolvimento e refatoração, sem comprometer as entregas.
 
 </div> 
 
