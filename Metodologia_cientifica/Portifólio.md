@@ -90,19 +90,23 @@ Como membro ativo da equipe, tive comprometimento em prestar apoio emocional, ap
 <tr>
 <td> 
 
+<div align="justify">
+
 ## **2025 - 2º Semestre** ##
 
-***Empresa parceira:*** FATEC Jessen Vital
+**Empresa parceira:** Fatec
 
-***Nome do Projeto:*** BlueTech
+**Nome do Projeto:** NOME_DO_PROJETO
 
 <p align="center">
-      <img src="https://github.com/SquadTech-API/API-2/blob/b69d56fca290200f6ef3b77fd7b5aaa0c5d3f6bd/assets/images/Logo.png">
+  <img src="https://raw.githubusercontent.com/SquadTech-API/API-2/b69d56fca290200f6ef3b77fd7b5aaa0c5d3f6bd/assets/images/Logo.png" width="400" alt="Logo do projeto" />
 </p>
 
-**Descrição do problema:** O processo atual de envio e correção das seções do TG é feito por e-mail e MS Teams, o que gera atrasos, perda de mensagens e dificuldade em manter histórico. Além disso, os alunos têm problemas para gerar o arquivo final em formato MD e os professores de TG não conseguem acompanhar facilmente o andamento dos Portfólios.
+**Descrição do problema:** O processo de envio e correção das seções do Trabalho de Graduação (TG) da Fatec é feito por e-mail e MS Teams, o que gera atrasos, perda de mensagens e dificuldade em manter o histórico das orientações. Os professores têm dificuldade para organizar as correções e não recebem notificações claras sobre novos envios, o que leva à perda de prazos. Além disso, o formato exigido (Markdown) dificulta o envio para alunos que não dominam a tecnologia, e os professores de TG não têm controle sobre quais orientadores acompanham quais alunos nem sobre o andamento dos portfólios.
 
-**Solução do problema:** O projeto busca solucionar as dificuldades no processo de envio, correção e feedback dos Trabalhos de Graduação (TG) da Fatec. Atualmente, professores têm problemas para organizar correções, acompanhar orientações já dadas e receber notificações claras sobre novos envios. Isso gera atrasos e perda de prazos para os alunos. Além disso, o formato exigido (Markdown) dificulta o envio para quem não domina a tecnologia, e os professores das disciplinas precisam de mais controle sobre quais orientadores acompanham quais alunos.
+**Solução do problema:** Desenvolvimento de uma plataforma web que centraliza todo o processo do TG em um só lugar. Os alunos enviam as seções do trabalho pelo sistema e os orientadores fazem as correções e os feedbacks diretamente na plataforma, com histórico completo das orientações e notificações sobre novos envios. A plataforma também gera automaticamente o arquivo final em Markdown, facilitando a entrega para quem não domina o formato, e oferece aos professores de TG o controle dos vínculos entre orientadores e alunos e o acompanhamento do andamento de cada portfólio.
+
+</div>
 
 ## **Tecnologias Utilizadas:** ## 
 <div align="center">
@@ -137,15 +141,23 @@ Como Productor Owner tive a tarefa árdua de entender previamente o projeto ante
 
 ## **2026 - 1º Semestre** ##
 
-***Empresa parceira:*** IPEM - Instituto de Pesos e Medidas do Estado de São Paulo
+<div align="justify">
 
-***Nome do Projeto:*** IPEM CONTROL
+## **2026 - 1º Semestre** ##
 
-<img width="900" height="200" alt="IPEM (600 x 200 px) (900 x 200 px)" src="https://github.com/user-attachments/assets/476687ba-2d7b-4d9b-88ba-2612e8b9b833" />
+**Empresa parceira:** IPEM - Instituto de Pesos e Medidas do Estado de São Paulo
 
-**Descrição do problema:**  O IPEM realiza o controle de abastecimento das viaturas da Regional de São José dos Campos por meio de registros manuais. Após cada abastecimento, os condutores anotam informações como quilometragem, quantidade de combustível, valor abastecido e identificação do responsável em pranchetas físicas mantidas dentro de cada veículo. Esse processo torna a consolidação e a análise das informações demoradas e suscetíveis a erros, além de dificultar o acompanhamento do consumo de combustível, a comparação do desempenho entre as viaturas e a identificação de possíveis inconsistências nos registros.
+**Nome do Projeto:** IPEM CONTROL
 
-**Solução do problema:** Desenvolver um sistema web para digitalizar o processo de controle de abastecimento das viaturas. O sistema permitirá que os condutores registrem os abastecimentos de forma eletrônica, enquanto os gestores poderão validar as informações e acompanhar os dados por meio de relatórios analíticos. O IPEM CONTROL organizará os registros em uma base de dados estruturada, automatizando a conferência das informações, facilitando a consolidação mensal dos abastecimentos e proporcionando maior agilidade, transparência e eficiência na gestão da frota.
+<p align="center">
+  <img width="900" alt="IPEM CONTROL" src="https://github.com/user-attachments/assets/476687ba-2d7b-4d9b-88ba-2612e8b9b833" />
+</p>
+
+**Descrição do problema:** O IPEM realiza o controle de abastecimento das viaturas da Regional de São José dos Campos por meio de registros manuais. Após cada abastecimento, os condutores anotam informações como quilometragem, quantidade de combustível, valor abastecido e identificação do responsável em pranchetas físicas mantidas dentro de cada veículo. Esse processo torna demoradas a consolidação e a análise das informações, além de ser suscetível a erros e dificultar o acompanhamento do consumo de combustível, a comparação do desempenho entre as viaturas e a identificação de possíveis inconsistências nos registros.
+
+**Solução do problema:** Desenvolvimento do IPEM CONTROL, um sistema web que digitaliza o processo de controle de abastecimento das viaturas. Os condutores registram os abastecimentos de forma eletrônica, enquanto os gestores validam as informações e acompanham os dados por meio de relatórios analíticos. O sistema organiza os registros em uma base de dados estruturada, automatizando a conferência das informações e facilitando a consolidação mensal dos abastecimentos, o que traz mais agilidade, transparência e eficiência à gestão da frota.
+
+</div>
 
 ## **Tecnologias Utilizadas:** ## 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -161,12 +173,33 @@ Como Productor Owner tive a tarefa árdua de entender previamente o projeto ante
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&labelColor=2C2C2C" alt="Slack" />
 </div>
 
+<div align="justify">
+  
 ## **Contribuições pessoais:** ##
-Atuação como Scrum Master 
 
-## **Hard Skills:** ##
+Atuei como **Scrum Master e desenvolvedora** da equipe, conciliando a gestão ágil do projeto com a contribuição direta no código:
 
-## **Soft Skills:** ## 
+**Scrum Master**
+- Condução das cerimônias do Scrum: Sprint Planning, Daily Scrum, Sprint Review e Sprint Retrospective.
+- Facilitação da comunicação entre a equipe de desenvolvimento, o Product Owner e a empresa parceira.
+- Identificação e remoção de impedimentos que afetavam o progresso do time.
+- Acompanhamento do andamento das sprints, garantindo que as entregas estivessem alinhadas aos prazos e aos requisitos do projeto.
+- Incentivo às boas práticas ágeis e à melhoria contínua do processo de trabalho da equipe.
+
+**Desenvolvimento**
+- Atuação no desenvolvimento de funcionalidades do sistema, contribuindo diretamente com código nas entregas das sprints.
+- Refatoração do código, melhorando a organização, a legibilidade e a manutenibilidade do projeto, além de eliminar duplicações.
+
+**Gestão do Projeto (GitHub Projects)**
+- Administração do GitHub Projects como ferramenta central de gestão do projeto.
+- Organização do quadro Kanban, com criação, priorização e acompanhamento das tarefas (To Do, In Progress, Done).
+- Estruturação do Product Backlog e do Sprint Backlog, dividindo as histórias de usuário em tarefas para a equipe.
+
+**Documentação**
+- Construção e manutenção da documentação do projeto, mantendo-a atualizada a cada sprint.
+- Organização dos artefatos do Scrum e dos registros de cada sprint no repositório.
+
+</div> 
 
 </td>
 </tr>
